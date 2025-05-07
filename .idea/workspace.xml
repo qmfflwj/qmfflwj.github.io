@@ -4,15 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="192225e3-d76c-434e-8b22-483d11c1fa55" name="변경" comment="edit turbo.json">
+    <list default="true" id="192225e3-d76c-434e-8b22-483d11c1fa55" name="변경" comment="nextra 설정 완료">
+      <change afterPath="$PROJECT_DIR$/apps/docs/src/app/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ui/eslint.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ui/src/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ui/src/card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ui/src/code.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ui/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ui/turbo/generators/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ui/turbo/generators/templates/component.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/web/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/next.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/web/src/app/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/web/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/eslint.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/eslint.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/postcss.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/postcss.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/public/file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/public/file.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/public/globe.svg" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/public/globe.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/public/next.svg" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/public/next.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/public/vercel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/public/vercel.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/public/window.svg" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/public/window.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/src/app/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/src/app/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/web/src/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/mdx-components.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/src/mdx-components.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/eslint-config/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/eslint-config/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/typescript-config/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/typescript-config/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
     </list>
+    <list id="4e6acefd-ef79-4be0-9c32-84644713f51f" name="ui 추가" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,28 +100,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore_missing_gitignore": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "/Users/shim/Desktop/my/qmfflwj.github.io/node_modules/prettier",
-    "settings.editor.selected.configurable": "settings.javascript.prettier",
-    "ts.external.directory.path": "/Users/shim/Desktop/my/qmfflwj.github.io/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true",
-    "writerside.last.selected.productqmfflwj.github.io": "g"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/shim/Desktop/my/qmfflwj.github.io/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/shim/Desktop/my/qmfflwj.github.io/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;writerside.last.selected.productqmfflwj.github.io&quot;: &quot;g&quot;
   },
-  "keyToStringList": {
-    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
+  &quot;keyToStringList&quot;: {
+    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: []
   }
-}]]></component>
+}</component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -154,6 +177,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
       <changelist id="192225e3-d76c-434e-8b22-483d11c1fa55" name="변경" comment="" />
+      <changelist id="4e6acefd-ef79-4be0-9c32-84644713f51f" name="ui 추가" comment="" />
       <created>1712641556367</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -162,7 +186,8 @@
       <workItem from="1746512537586" duration="27000" />
       <workItem from="1746512574914" duration="198000" />
       <workItem from="1746512784993" duration="63000" />
-      <workItem from="1746512850737" duration="2369000" />
+      <workItem from="1746512850737" duration="3615000" />
+      <workItem from="1746628015576" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -188,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746513965128</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="nextra 설정 완료">
+      <option name="closed" value="true" />
+      <created>1746515263002</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746515263002</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +255,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="add Next.js with turborepo" />
     <MESSAGE value="edit turbo.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit turbo.json" />
+    <MESSAGE value="nextra 설정 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="nextra 설정 완료" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
